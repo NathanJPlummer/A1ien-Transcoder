@@ -2,7 +2,7 @@
 
 ## Warning
 
-This script is designed for convenience and has undergone minimal testing. Use it at your own risk.
+This bash (Linux) script is designed for convenience and has undergone minimal testing. Use it at your own risk.
 
 ## About
 
